@@ -1,4 +1,4 @@
-tensorflow==2.16.0
+tensorflow==2.16.1
 keras==3.9.2
 streamlit==1.44.1
 streamlit-webrtc==0.62.4
